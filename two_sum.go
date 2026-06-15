@@ -13,7 +13,7 @@ func twoSum(nums []int, target int) []int {
 	return nil
 }
 
-func main() {
+func two_sum() {
 	nums := []int{2, 7, 11, 15}
 	target := 9
 	result := twoSum(nums, target)

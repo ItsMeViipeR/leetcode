@@ -19,7 +19,7 @@ func isPalindrome(x int) bool {
 	return true
 }
 
-func main() {
+func palindrome() {
 	x := 121
 	result := isPalindrome(x)
 	println(result)
